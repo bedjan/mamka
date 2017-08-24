@@ -5,6 +5,7 @@
 <div><strong>Nab&iacute;dka start:<br />
 </strong><img src="http://bednarovark.byethost33.com/info/wp-content/uploads/2017/08/sn%C3%ADmek13.png?i=1" alt="" /></div>
 <div>&nbsp;</div>
+
 <div><strong>Windows vyp&iacute;n&aacute;n&iacute; a restart:<br />
 </strong><img src="http://bednarovark.byethost33.com/info/wp-content/uploads/2017/08/sn%C3%ADmek6.png" alt="" /></div>
 <div>&nbsp;</div>
