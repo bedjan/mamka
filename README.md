@@ -1,1 +1,1 @@
-#### webové strínky a návody
+#### Webové stránky a návody
