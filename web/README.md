@@ -4,10 +4,18 @@ http://bednarova.rk.sweb.cz/
 
 #### Soubory 
 
-index.php
+<code>index.php</code>
 
-obsah.html
+<code>obsah.html</code>
 
 #### Pro editaci webu stačí editovat obsah.html:
 
 https://github.com/bedjan/mamka/blob/master/web/obsah.html
+
+#### Sweb uložiště
+
+https://www.sweb.cz/
+
+#### Sweb nápověda
+
+http://napoveda-sweb.sweb.cz/
