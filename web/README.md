@@ -12,6 +12,14 @@ http://bednarova.rk.sweb.cz/
 
 https://github.com/bedjan/mamka/blob/master/web/obsah.html
 
+#### CSS syntaxe
+
+https://picturepan2.github.io/spectre/elements.html#typography
+
+#### CSS dokumentace
+
+https://picturepan2.github.io/spectre/getting-started.html#introduction
+
 #### Sweb uložiště
 
 https://www.sweb.cz/
