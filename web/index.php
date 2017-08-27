@@ -4,6 +4,8 @@
  </head>
  <body>
  <?php echo '<p>Vitejte</p>'; ?> 
+  <?php include "https://raw.githubusercontent.com/bedjan/mamka/master/web/obsah.html"; ?>
+  <?php echo '<p>Vitejte 1</p>'; ?> 
  <?php include('https://raw.githubusercontent.com/bedjan/mamka/master/web/obsah.html'); ?>
   <p>vlozeno</p>
   <?php
