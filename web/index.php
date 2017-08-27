@@ -1,18 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
-<head>
-<title>Advokátní Kancelář JUDr. Zdenky Bednářové v Rychnově n.K.</title>
-<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
- </head>
- <body>
+<!-- vymazani souboru index.html -->
+<?php unlink('index.html'); ?>
 
-<!-- stazeni souboru -->
+<!-- stazeni souboru index.html-->
 <?php error_reporting(E_ALL);?>
 
 <?php
 
- $source = "https://raw.githubusercontent.com/bedjan/mamka/master/web/obsah.html";
- $destination = "obsah.html";
+ $source = "https://raw.githubusercontent.com/bedjan/mamka/master/web/index.html";
+ $destination = "index.html";
 
  $data = file_get_contents($source);
  $file = fopen($destination, "w+");
@@ -23,13 +18,5 @@
 
 <!-- pripadne vytisteni znaku primo <?php echo '<p>Vitejte</p>'; ?> -->
 
-<!-- zobrazeni souboru -->
-<?php require ('obsah.html'); ?>
-
-
-
- </body>
-</html>
-
-
-
+<!-- zobrazeni souboru index.html-->
+<?php require ('index.html'); ?>
