@@ -6,7 +6,7 @@
 
 <?php
 
- $source = "https://raw.githubusercontent.com/bedjan/mamka/master/web/obsah.html";
+ $source = "https://raw.githubusercontent.com/bedjan/web_skola/master/obsah.html";
  $destination = "obsah.html";
 
  $data = file_get_contents($source);
